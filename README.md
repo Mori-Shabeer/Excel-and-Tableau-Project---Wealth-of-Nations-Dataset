@@ -28,12 +28,4 @@ But my journey didn't end in the realm of Excel! Behold the magic of Tableau:
 
 And thus, my data odyssey comes to an end. But fear not, dear traveler, for the world of data is vast and ever-changing. Join me on future adventures as we continue to unravel the mysteries of the digital realm, one dataset at a time! 🚀🔍
 
-
-
-
-
-Message ChatGPT
-
-ChatGPT can make mistakes. Consider checking important information.
-
 ![Screenshot 2024-05-03 at 14 39 39](https://github.com/Mori-Shabeer/Excel-and-Tableau-Project---Wealth-of-Nations-Dataset/assets/168829887/bc64f618-c9ba-4ae0-8c05-c272446c6186)
